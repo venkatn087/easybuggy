@@ -4,7 +4,8 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": ["branchTEST"],
-    "enableLicenseViolations": "true"
+    "enableLicenseViolations": "true",
+    "enableSAST": "true"
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
