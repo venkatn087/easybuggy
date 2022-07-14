@@ -3,7 +3,8 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": ["branchTEST"]
+    "baseBranches": ["branchTEST"],
+    "enableLicenseViolations": "true"
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
