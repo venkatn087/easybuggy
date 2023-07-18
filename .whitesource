@@ -2,7 +2,7 @@
   "scanSettings": {
     "configMode": "AUTO",
     "configExternalURL": "",
-    "projectToken": "",
+    "projectToken": "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",
     "baseBranches": ["branchTEST"],
     "enableLicenseViolations": "true",
     "enableSAST": "true"
